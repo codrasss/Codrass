@@ -15,7 +15,7 @@
 
 ## 🚀 Проекты
 
-### 🔥 PythonMemorio
+### [🔥 PythonMemorio](https://github.com/zhukovskaia/Memorio.git)
 
 **Интерактивная платформа для изучения Python через геймификацию и интеллектуальное интервальное повторение (SRS).**
 
