@@ -12,7 +12,7 @@
 |-----|------------|----------|
 | 2026 | "Поколение Python": курс для продвинутых | stepik.org  |
 | 2026 | Базовый Python | VK EDUCATION  |
-| 2026 | Искусственный интеллект в финтехе | АЛЬФА-БАНК  |
+| 2026 | Искусственный интеллект в финтехе АЛЬФА-БАНК |  [сертификат](https://github.com/codrasss/Codrass/blob/f790d01a6be4a7a8844709e7ea6ad4f8613b7be4/sertificats/fintech_zhukovskaia_aleksandra.pdf) |
 | 2026 | "Поколение Python": курс для начинающих | stepik.org  |
 | 2025 | Алгоритмы и структуры данных | VK EDUCATION  |
 | 2025 | Интерактивный тренажёр по SQL | stepik.org |
