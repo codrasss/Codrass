@@ -32,7 +32,7 @@
         def __init__(self):
             self.username = "codrass"
             self.location = "Екатеринбург, Russia"
-            self.education = "УрФУ (Инфокоммуникационные технологии)"
+            self.education = "Уральский федеральный университет имени Б.Н. Ельцина"
             self.status = ["🎓 Получаю высшее образование",
                            "💼 Открыта для стажировки",
                            "👯 Ищу коллаборацию над проектами"]
@@ -59,5 +59,5 @@
 ## 📫 Связаться со мной
 
 [![Telegram](https://img.shields.io/badge/Telegram-@zhu1sa-blue?logo=telegram)](https://t.me/zhu1sa)
-[![GitHub](https://img.shields.io/badge/GitHub-codrass-black?logo=github)](https://github.com/codrass)
+[![GitHub](https://img.shields.io/badge/GitHub-codrass-black?logo=github)](https://github.com/codrasss)
 [![Email](https://img.shields.io/badge/Email-codbrass@gmail.com-red?logo=gmail)](mailto:codbrass@gmail.com)
