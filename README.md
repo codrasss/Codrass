@@ -63,6 +63,6 @@
 
 ## 📫 Связаться со мной
 
-[![Telegram](https://img.shields.io/badge/Telegram-@zhu1sa-blue?logo=telegram)](https://t.me/zhu1sa)
+[![Telegram](https://img.shields.io/badge/Telegram-@codbrass-blue?logo=telegram)](https://t.me/codbrass)
 [![GitHub](https://img.shields.io/badge/GitHub-codrass-black?logo=github)](https://github.com/codrasss)
 [![Email](https://img.shields.io/badge/Email-codbrass@gmail.com-red?logo=gmail)](mailto:codbrass@gmail.com)
